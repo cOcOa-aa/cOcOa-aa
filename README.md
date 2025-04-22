@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 안녕하세요! cOcOa-aa입니다!
+# 👋 Hi! I'm cOcOa-aa
 
 ![cat coffee](이미지링크)
 
