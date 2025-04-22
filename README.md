@@ -1,6 +1,6 @@
 # 👋 Hi! I'm cOcOa-aa
 
-![cat coffee](이미지링크)
+![cat coffee](<img src="./Cat_Latte.jpg" width="200"/>)
 
 ## 🧑‍💻 About Me
 - 🌱 현재 배우고 있는 것: `프론트엔드`, `React`, `TypeScript`
