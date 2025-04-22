@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./Cat_Latte.jpg" alt="cat coffee" width="300" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?lines=반가워요😺&fontSize=24&color=FFCC00&font=Pacifico" alt="Typing SVG" />
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=반가워요😺&fontSize=24&color=FFCC00)](https://git.io/typing-svg)
 
 # 👋 Hi! I'm cOcOa-aa
 
