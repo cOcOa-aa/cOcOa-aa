@@ -1,6 +1,5 @@
-# 👋 Hi! I'm cOcOa-aa
-
 ![cat coffee](./Cat_Latte.jpg)
+# 👋 Hi! I'm cOcOa-aa
 
 ## 🧑‍💻 About Me
 - 🌱 현재 배우고 있는 것: `프론트엔드`, `React`, `TypeScript`
