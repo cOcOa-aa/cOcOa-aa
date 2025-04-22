@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 안녕하세요! 저는 위 럭(Wi Luck)입니다!
+# 👋 안녕하세요! cOcOa-aa입니다!
 
 ![cat coffee](이미지링크)
 
