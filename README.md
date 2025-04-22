@@ -3,7 +3,7 @@
   <h2 align="center">👋 Hi! I'm cOcOa-aa</h2>
   <p align="center">💻 CBNU Computer Engineering<br />
   🌱 I'm currently learning Python, C++, and more<br />
-  🧠 Interests: Frontend development, Game creation<br />
+  🧠 I'm interested in Frontend development, Game creation<br />
   🎮 My goals: Making fun and engaging games
 </p>
 
@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Contact
-[![Mail](https://img.shields.io/badge/Mail-FF6F00?style=flat&logo=gmail&logoColor=white)](mailto:lovekm0121@naver.com)
+[![Mail](https://img.shields.io/badge/email-FF6F00?style=flat&logo=gmail&logoColor=white)](mailto:lovekm0121@naver.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/이규민#3860)
 
 <!--
