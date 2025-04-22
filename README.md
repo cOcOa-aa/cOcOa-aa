@@ -1,4 +1,7 @@
-![cat coffee](./Cat_Latte.jpg) [![Typing SVG](https://readme-typing-svg.demolab.com?lines=반가워요😺&fontSize=24&color=FFCC00&font=Pacifico)](https://git.io/typing-svg)
+<p align="center">
+  ![cat coffee](./Cat_Latte.jpg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=반가워요😺&fontSize=24&color=FFCC00&font=Pacifico)](https://git.io/typing-svg)
+</p>
 
 # 👋 Hi! I'm cOcOa-aa
 
