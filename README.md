@@ -26,7 +26,7 @@
 ---
 
 ## 📫 Contact
-- ✉️ 이메일: your.email@example.com
+- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white : lovekm0121@naver.com
 - 📝 블로그: [velog.io/@yourID](https://velog.io/@yourID)
 - 🌍 포트폴리오: [your-portfolio-link](https://example.com)
 
